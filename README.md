@@ -9,6 +9,8 @@ Rakamin Academy Data Science Bootcamp Batch 26: <br>
 5. M. Rizky Septiansyah
 6. Anggita Citra Lubis
 
+Datataset dapat diakses pada [Ecommerce Latement Shipping Data](https://www.kaggle.com/datasets/prachi13/customer-analytics)
+
 ## 1. Problem Statement
 Suatu perusahaan ecommerce mempunyai dataset yang terdiri atas 10999 delivery dengan berbagai fitur dan target berupa *late shipment* atau keterlambatan pengiriman. Pada dataset ini, jumlah pengiriman terlambat (59,7%) lebih banyak daripada pengiriman on-time (40,3%). Keterlambatan pengiriman ini akan mempengaruhi kepuasan customer yang juga berpengaruh pada customer rating dan *potential revenue loss*.
 
