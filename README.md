@@ -42,7 +42,7 @@ Dengan menggunakan boxplot, ditemukan adanya outlier pada feature discount dan p
 
 ![eda rating](https://user-images.githubusercontent.com/116500936/205497340-056da9ab-588e-460c-a67f-a2456fc12319.png)
 
-Sementara pada category-plot feature rating, dengan asumsi customer yang puas memberi rating 4 dan 5, terlihat lebih banyak customer yang memberi rating tidak puas (1, 2 dan 3) dibanding rating puas (rating 4 dan 5).
+Sementara pada category-plot terdapat insight menarik pada feature rating, dengan asumsi customer yang puas memberi rating 4 dan 5, terlihat lebih banyak customer yang memberi rating tidak puas (1, 2 dan 3) dibanding rating puas (rating 4 dan 5).
 
 
 ### Multivariate Analysis
